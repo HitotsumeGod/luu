@@ -1,3 +1,5 @@
+--modulescript
+
 local funcs_core = {}
 
 function funcs_core.get_min_pity()
