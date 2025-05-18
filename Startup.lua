@@ -1,3 +1,4 @@
+--script
 local reps = game:GetService("ReplicatedStorage")
 local workspace = game:GetService("Workspace")
 local players = game:GetService("Players")
