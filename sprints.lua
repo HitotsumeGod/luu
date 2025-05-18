@@ -1,3 +1,5 @@
+--localscript
+
 local sprinting = false
 function sprint(input, _gameProcessed)
 	local player = game.Players.LocalPlayer
