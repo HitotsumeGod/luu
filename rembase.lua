@@ -1,3 +1,5 @@
+--modulescript
+
 local rembase = {}
 
 function rembase.make_remev(name, parent)
