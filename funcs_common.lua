@@ -1,3 +1,5 @@
+--modulescript
+
 local funcs_common = {}
 
 --primary function for returning views after a view-click event. takes the clicked object and the clicker player as arguments. 
