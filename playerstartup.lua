@@ -1,3 +1,5 @@
+--localscript
+
 function on_get_remev(data)
 	local reps = game:GetService("ReplicatedStorage")
 	local players = game:GetService("Players")
